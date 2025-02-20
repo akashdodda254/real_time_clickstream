@@ -1,0 +1,6 @@
+[2025-02-20 10:00:07] Spark Streaming job started with Application ID: app-20250220100007
+[2025-02-20 10:05:30] Batch received with 50 clickstream events.
+[2025-02-20 10:06:10] Processing batch: extracting user_id, url, timestamp.
+[2025-02-20 10:08:45] Writing transformed data to Delta Lake: delta_lake/clickstream_20250220.parquet
+[2025-02-20 10:10:15] Committing batch to PostgreSQL: 50 records written.
+[2025-02-20 10:15:00] Spark Streaming job terminated gracefully.

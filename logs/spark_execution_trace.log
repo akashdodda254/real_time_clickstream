@@ -1,0 +1,6 @@
+[2025-02-20 10:00:07] Spark Job Started (Application ID: app-20250220100007)
+[2025-02-20 10:05:30] Kafka batch received - 50 records
+[2025-02-20 10:06:10] Processing batch...
+[2025-02-20 10:08:45] Data written to Delta Lake (delta_lake/clickstream_20250220.parquet)
+[2025-02-20 10:10:15] Committed batch to PostgreSQL - 50 records inserted
+[2025-02-20 10:15:00] Spark job completed successfully.

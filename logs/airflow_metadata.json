@@ -1,0 +1,15 @@
+{
+    "dag_id": "clickstream_etl",
+    "execution_date": "2025-02-20T10:00:00",
+    "start_date": "2025-02-20T10:00:05",
+    "end_date": "2025-02-20T10:15:02",
+    "status": "success",
+    "task_instances": [
+        {
+            "task_id": "extract_data",
+            "start_date": "2025-02-20T10:00:05",
+            "end_date": "2025-02-20T10:15:00",
+            "status": "success"
+        }
+    ]
+}

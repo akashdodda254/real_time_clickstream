@@ -1,0 +1,7 @@
+{
+    "topic": "clickstream",
+    "partition": 0,
+    "start_offset": 15000,
+    "end_offset": 15500,
+    "messages_consumed": 500
+}

@@ -1,0 +1,4 @@
+clickstream/2025-02-20/events_batch_1.json
+clickstream/2025-02-20/events_batch_2.json
+clickstream/2025-02-20/events_batch_3.json
+clickstream/2025-02-20/events_batch_4.json
